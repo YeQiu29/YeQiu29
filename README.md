@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YeQiu29
 - 😁 My real name is Dennis Putra Hilmansyah
 - 🎓 I'm Diploma 3 in Politeknik Elektronika Negeri Surabaya, majoring Telecommunication Engineering
+- 🧠 I'm a AI Engineer
 - 👀 I’m interested in Networking, Machine Learning, Radio Frequency and IoT.
 - 🌱 I’m currently learning Network Security and Deep Learning
 - 💞️ I would like to collaborate in the areas of networking, machine learning, and Microcontrollers
