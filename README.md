@@ -1,97 +1,74 @@
-<h1 align="center">Hi there, I'm Dennis Putra Hilmansyah 👋</h1>
+<h1 align="center">👋 Hi, I'm Dennis Putra Hilmansyah (YeQiu29)</h1>
+<h3 align="center">AI Engineer • Networking Enthusiast • Deep Learning Researcher</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 Graduated with a Bachelor's degree in Telecommunication Engineering  
+- 🤖 AI Engineer focusing on Machine Learning, Deep Learning, and Computer Vision  
+- 🔐 Currently learning Network Security & Ethical Hacking  
+- ⚡ Interested in IoT, Cybersecurity, AI Automation, and Distributed Systems  
+- 🤝 Open for collaboration in AI, ML, Deep Learning, IoT, Networking  
+- 📩 Reach me at **denniez.hilmansyah29@gmail.com**
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔹 Backend Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🔹 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🔹 Data Science & AI
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-222222?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🔹 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennisputrahilmansyah)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@your_tiktok_username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devinnvis)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <b>AI Engineer | Networking Enthusiast | Software Developer</b>
-  <br>
-  Passionate in Machine Learning, Deep Learning, Network Security, and Intelligent Systems.
+  <img src="https://github-readme-stats.vercel.app/api?username=YeQiu29&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeQiu29&layout=compact&theme=tokyonight" height="160" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Graduated with a Bachelor's Degree in Engineering from *Surabaya State Electronics Polytechnic, majoring in **Telecommunication Engineering*.
-- 🧠 Currently working as an *AI Engineer*.
-- 💡 Interested in *Networking, Machine Learning, Radio Frequency, Deep Learning, IoT*.
-- 📚 Currently learning *Network Security, **Machine Learning Ops, and **Advanced Deep Learning*.
-- 🤝 Open to collaborations in *AI, Networking, IoT, Microcontrollers, and Automation*.
-- 📩 Reach me on Instagram *@devinnivis* or email: *denniez.hilmansyah29@gmail.com*
-- 💰 Support me:
-  - Saweria: https://saweria.co/devinnivis  
-  - Bagibagi: https://bagibagi.co/yeqiu_devinnivis
-
----
-
-## 🔥 Tech Stack & Tools
-
-### 🚀 Programming Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🧠 AI, Machine Learning & Data
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-3949AB?style=for-the-badge&logo=ai"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter-FFB3BA?style=for-the-badge&logo=jupyter&logoColor=white)"/>
-</p>
-
-### 🧰 Frameworks & Backend Development
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-808080?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-3b82f6?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-6f2cf3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 🛠 Other Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
-</p>
-
----
-
-## 📌 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeQiu29&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeQiu29&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 📌 Top Languages
+## ❤️ Support Me  
+- ☕ Saweria: https://saweria.co/devinnvis  
+- 🎁 Bagibagi: https://bagibagi.co/yeqiu_devinnvis  
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeQiu29&layout=compact&theme=tokyonight" height="180px"/>
+  <b>Made with ❤️ by Dennis Putra Hilmansyah</b>
 </p>
-
----
-
-## 📌 Featured Projects (Pinned)
-Check out some of my highlighted works below on my GitHub profile!
-
----
-
-## 🔗 Social & Contact
-
-<p align="center">
-  <a href="https://www.instagram.com/devinnivis"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dennisputrahilmansyah"><img src="https://img.shields.io/badge/LinkedIn-0
