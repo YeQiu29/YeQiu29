@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&timezone=Asia/Jakarta" height="160" />
 </p>
 
 ---
