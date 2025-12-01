@@ -83,14 +83,42 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats (Stable + Cache) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeQiu29&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeQiu29&layout=compact&theme=tokyonight" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YeQiu29&show_icons=true&theme=tokyonight&cache_seconds=7200" 
+    height="160" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeQiu29&layout=compact&theme=tokyonight&cache_seconds=7200" 
+    height="160" 
+  />
 </p>
 
+<!-- GitHub Streak Stats (Stable Domain) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&timezone=Asia/Jakarta" height="160" />
+  <img 
+    src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&timezone=Asia/Jakarta&cache_seconds=7200" 
+    height="160" 
+  />
 </p>
+
+<!-- GitHub Trophy (Stable Domain) -->
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=YeQiu29&theme=tokyonight&no-frame=true&margin-w=10" 
+  />
+</p>
+
+<!-- Contribution Snake (Dark Theme, Stable RAW URL) -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/YeQiu29/YeQiu29/output/github-contribution-grid-snake-dark.svg" 
+  />
+</p>
+
 
 ---
 
