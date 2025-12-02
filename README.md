@@ -84,8 +84,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  [<img src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170">](https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&date_format=j%20M[%20Y]&hide_border=true
-)
+  https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&date_format=j%20M[%20Y]&hide_border=true
 </p>
 
 <p align="center">
