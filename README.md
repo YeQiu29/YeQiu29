@@ -84,14 +84,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=YeQiu29&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=YeQiu29&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&timezone=Asia/Jakarta" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeQiu29&theme=tokyonight">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YeQiu29&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YeQiu29&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YeQiu29&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YeQiu29&theme=tokyonight&utcOffset=7">
+</p>
 
 ---
 
