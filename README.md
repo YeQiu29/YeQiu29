@@ -85,7 +85,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=YeQiu29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    src="https://streak-stats.demolab.com?user=yeqiu29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
     height="180"
   />
 </p>
