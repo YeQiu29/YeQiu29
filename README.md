@@ -106,8 +106,8 @@
 ---
 
 ## ❤️ Support Me  
-- ☕ Saweria: https://saweria.co/devinnvis  
-- 🎁 Bagibagi: https://bagibagi.co/yeqiu_devinnvis  
+- ☕ Saweria: https://saweria.co/devinnivis 
+- 🎁 Bagibagi: https://bagibagi.co/yeqiu_devinnivis  
 
 ---
 
